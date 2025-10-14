@@ -1,9 +1,9 @@
 # Hi there, I'm Anik Chowdhury 👋  
 ### CSE Student | Passionate Programmer | Tech Enthusiast | Open Source Contributor
 
-[![Twitter Badge](https://img.shields.io/badge/-@YourTwitterHandle-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/YourTwitterHandle)  
-[![LinkedIn Badge](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)  
-[![GitHub Badge](https://img.shields.io/badge/-YourUsername-grey?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/your-github-profile)  
+
+[![LinkedIn Badge](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anik-chowdhury-326b12228/)  
+[![GitHub Badge](https://img.shields.io/badge/-YourUsername-grey?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Anikalfa)  
 
 ---
 
@@ -36,12 +36,12 @@ I am a **Computer Science and Engineering student** who loves building software 
 
 ### 📝 **Notable Projects**  
 - **Project 1**  
-  - Description: Briefly describe your project. Technologies: Python, Flask, MySQL  
-  - [View Project](https://github.com/Anikalfa/Design-a-full-fledged-network-for-an-organization-with-multiple-subnets.)
+  - Description: This project is a Computer Networks Apex University is an enterprise like East West University, owns many computers, with a complex network infrastructure. Apart from wired internet access to all the classrooms, labs, employee PCs, library and other administrative and academic wings, the university also provides wireless internet access for every campus. On top of that the university runs complex networked systems to support several of its business process like admissions, advising, results, eTender, library management, accounts and so on. This complex network infrastructure is subnetted and switching/routing mechanisms are in practice. Cisco Packet Tracer.. Technologies: Cisco Packet Tracer, Networking concepts like VLANs, Subnetting, Routing, DHCP, and more
+  - [Design-a-full-fledged-network-for-an-organization-with-multiple-subnets.](https://github.com/Anikalfa/Design-a-full-fledged-network-for-an-organization-with-multiple-subnets.)
 
 - **Project 2**  
-  - Description: Describe another project you’ve worked on. Technologies: JavaScript, React, Node.js  
-  - [View Project](https://github.com/Anikalfa/Creating-a-Dynamic-Portfolio)
+  - Description: Describe another project I’ve worked on. Technologies: JavaScript, React, Node.js  
+  - [Creating-a-Dynamic-Portfolio](https://github.com/Anikalfa/Creating-a-Dynamic-Portfolio)
 
 ---
 
@@ -53,7 +53,7 @@ I am a **Computer Science and Engineering student** who loves building software 
 
 ### 🏆 **Achievements**  
 - **Open Source Contributor** to popular repositories
-- **Published Research Paper**: [Title of Your Paper](https://www.researchgate.net/publication/395976664_Explainable_Machine-Learning_Forecasts_of_Building-Energy_Demand_from_Weather_Signals_A_Comparative_Study_of_Classical_Ensemble_and_Hybrid_DL_Models)    
+- **Published Research Paper**: [Explainable Machine-Learning Forecasts of Building-Energy Demand from Weather Signals: A Comparative Study of Classical, Ensemble and Hybrid DL Models](https://www.researchgate.net/publication/395976664_Explainable_Machine-Learning_Forecasts_of_Building-Energy_Demand_from_Weather_Signals_A_Comparative_Study_of_Classical_Ensemble_and_Hybrid_DL_Models)    
 
 ---
 
