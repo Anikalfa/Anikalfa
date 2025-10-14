@@ -2,8 +2,8 @@
 ### CSE Student | Passionate Programmer | Tech Enthusiast | Open Source Contributor
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anik-chowdhury-326b12228/)  
-[![GitHub Badge](https://img.shields.io/badge/-YourUsername-grey?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Anikalfa)  
+
+[![GitHub Badge](https://img.shields.io/badge/-Anikalfa-grey?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Anikalfa)  
 
 ---
 
@@ -30,7 +30,7 @@ I am a **Computer Science and Engineering student** who loves building software 
 ---
 
 ### 📊 **GitHub Stats**  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-profile&show_icons=true&count_private=true&hide_title=true&hide=prs)
+![My Portfolio](https://anikalfa.github.io/)
 
 ---
 
