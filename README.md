@@ -30,7 +30,7 @@ I am a **Computer Science and Engineering student** who loves building software 
 ---
 
 ### 📊 **GitHub Stats**  
-![My Portfolio](https://anikalfa.github.io/)
+
 
 ---
 
@@ -54,7 +54,7 @@ I am a **Computer Science and Engineering student** who loves building software 
 ### 🏆 **Achievements**  
 - **Open Source Contributor** to popular repositories
 - **Published Research Paper**: [Explainable Machine-Learning Forecasts of Building-Energy Demand from Weather Signals: A Comparative Study of Classical, Ensemble and Hybrid DL Models](https://www.researchgate.net/publication/395976664_Explainable_Machine-Learning_Forecasts_of_Building-Energy_Demand_from_Weather_Signals_A_Comparative_Study_of_Classical_Ensemble_and_Hybrid_DL_Models)    
-
+- **Personal Website**: [My Portfolio](https://anikalfa.github.io/)  
 ---
 
 ### 💬 **Fun Fact**  
