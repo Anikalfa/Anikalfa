@@ -56,11 +56,17 @@ I am a **Computer Science and Engineering student** who loves building software 
 - **Published Research Paper**: [Explainable Machine-Learning Forecasts of Building-Energy Demand from Weather Signals: A Comparative Study of Classical, Ensemble and Hybrid DL Models](https://www.researchgate.net/publication/395976664_Explainable_Machine-Learning_Forecasts_of_Building-Energy_Demand_from_Weather_Signals_A_Comparative_Study_of_Classical_Ensemble_and_Hybrid_DL_Models)    
 - **Personal Website**: [My Portfolio](https://anikalfa.github.io/)  
 ---
+
+
+### 👋 Hi there!
+
+I'm a data science enthusiast, learning and building projects on Kaggle.
+
 ---
 
 ### 📊 My Kaggle Stats
 
-This code will automatically show your current Kaggle tier and total medal count.
+*(These badges will appear correctly once your profile is public!)*
 
 [![Kaggle Tier](https://img.shields.io/kaggle/tier/anikalfa?logo=kaggle)](https://www.kaggle.com/anikalfa)
 [![Kaggle Medals](https://img.shields.io/kaggle/medals/anikalfa?logo=kaggle)](https://www.kaggle.com/anikalfa)
@@ -69,12 +75,13 @@ This code will automatically show your current Kaggle tier and total medal count
 
 ### 🏆 Kaggle Achievements
 
-This is the section where you can manually list the specific badges you've earned, like the ones in your image.
+Here are some of the badges I've earned on my data science journey:
 
 * 🐍 **Python** Badge
-* 🍴 **Code Forker** Badge
-* *(Add more as you earn them!)*
-
+* 📝 **Getting Started** Badge (Forking notebooks & making submissions)
+* 💡 **Curiosity** Badge (Commenting and engaging)
+* 🧮 **Data Scribe** Badge (Contributing to datasets)
+* 📅 **Consistency** Badge (7-day streak)
 ### 💬 **Fun Fact**  
 I believe that continuous learning and coding are the keys to becoming a better developer. I’m always open to collaborating and learning new technologies!  
 
