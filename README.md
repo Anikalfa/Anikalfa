@@ -97,16 +97,6 @@ A full-featured mobile banking application enabling seamless fund transfers, acc
 
 ---
 
-### 🗂️ Other Projects
-
-| Project | Description | Stack |
-|---------|------------|-------|
-| 🏫 [University Network Simulation](https://github.com/Anikalfa/Design-a-full-fledged-network-for-an-organisation-w) | Enterprise campus network for East West University | `C++` `Cisco` `Networking` |
-| 🔭 [Pathfinding Algorithms](https://github.com/Anikalfa/Simulation-Of-A-and-DA-Algorithms-for-Pathfinding) | A* and D/A algorithm simulation | `C++` `Algorithms` |
-| 🌐 [Dynamic Portfolio](https://github.com/Anikalfa/Creating-a-Dynamic-Portfolio) | Customizable portfolio generator | `React` `Node.js` |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -125,21 +115,12 @@ A full-featured mobile banking application enabling seamless fund transfers, acc
 - 🔓 **Open Source Contributor** — Active contributor to popular repositories
 - 📄 **Published Research Paper:**  
   [Explainable Machine-Learning Forecasts of Building-Energy Demand from Weather Signals](https://www.researchgate.net/publication/395976664)
-- 🌐 **Personal Portfolio:** [anikalfa.github.io](https://anikalfa.github.io/)
+
+  [Towards Personalized Bangla Book Recommendation: A Large-Scale Multi-Entity Book Graph Dataset](https://arxiv.org/abs/2602.12129)
+
 
 ---
 
-## 📊 Kaggle Journey
-
-| Badge | Earned For |
-|-------|-----------|
-| 🐍 **Python** | Completed Python course |
-| 📝 **Getting Started** | Forking notebooks & submissions |
-| 💡 **Curiosity** | Community engagement |
-| 🧮 **Data Scribe** | Dataset contributions |
-| 📅 **Consistency** | 7-day streak |
-
----
 
 ## 📫 How to Reach Me
 
@@ -147,7 +128,7 @@ A full-featured mobile banking application enabling seamless fund transfers, acc
 
 [![Email](https://img.shields.io/badge/Email-chowdhury.anik2000%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chowdhury.anik2000@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anik-chowdhury-326b12228/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://anikalfa.github.io/)
+
 
 </div>
 
