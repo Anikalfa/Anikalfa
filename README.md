@@ -14,24 +14,37 @@
 
 ---
 
-## 🧑‍💻 About Me
+### 🚀 About Me
 
-```bash
-$ whoami
-> Md. Anik Chowdhury — CSE Student @ East West University, Dhaka 🇧🇩
+I am a **Computer Science & Engineering student** with a deep passion for architecting intelligent software and exploring the frontiers of **Artificial Intelligence**. I specialize in bridging the gap between complex machine learning research and scalable **Full Stack Development**.
 
-$ cat interests.txt
-> AI/ML · Full Stack Dev · Cloud Computing · Deep Learning
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔍 Current Focus</h4>
+      <ul>
+        <li><b>AI & Machine Learning</b>: Developing predictive models and neural networks.</li>
+        <li><b>Web Engineering</b>: Building responsive, high-performance applications.</li>
+        <li><b>Research</b>: Exploring explainable AI (XAI) in energy demand forecasting.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📚 Ongoing Learning</h4>
+      <ul>
+        <li><b>Deep Learning</b>: Advanced architectures and optimization.</li>
+        <li><b>Cloud Computing</b>: Deploying scalable solutions on AWS/GCP.</li>
+        <li><b>Algorithms</b>: Mastering competitive programming patterns.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-$ ls projects/
-> RECBook/   LenDen/   NetworkSim/   PathfindingAlgo/
+---
 
-$ cat skills.txt
-> Python · C++ · JavaScript · TensorFlow · React · DSA
-
-$ echo $status
-> Open to collaborations & open source contributions ✨
-```
+### 💬 Let's Connect
+- **Ask me about**: `Python`, `C++`, `JavaScript`, `TensorFlow`, `React`, `Data Structures & Algorithms`.
+- **Collaboration**: I'm always open to collaborating on **Open Source** projects or AI-driven web tools!
+- **Fun Fact**: I believe that writing code is like writing poetry—it should be clean, efficient, and meaningful.
 
 ---
 
