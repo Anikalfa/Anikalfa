@@ -1,89 +1,76 @@
-# Hi there, I'm Anik Chowdhury 👋  
-### CSE Student | Passionate Programmer | Tech Enthusiast | Open Source Contributor
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anikalfa/Anikalfa/main/github_profile_banner.png" alt="Anik Chowdhury Banner" width="100%">
+</p>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Anik+Chowdhury+👋;CSE+Student+|+Programmer;AI+and+ML+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+</h1>
 
-
-[![GitHub Badge](https://img.shields.io/badge/-Anikalfa-grey?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Anikalfa)  
-
----
-
-### 🚀 **About Me**  
-I am a **Computer Science and Engineering student** who loves building software solutions, exploring cutting-edge technologies, and diving deep into open-source contributions. Currently, I am focused on improving my skills in **Artificial Intelligence**, **Machine Learning**, and **Web Development**. I love to challenge myself through competitive programming and contribute to the tech community.
-
-- 🌱 **Currently learning**: Full Stack Development, AI/ML, Cloud Computing, Deep Learning
-- 🔭 **Focused on**: Building innovative software projects, solving algorithmic challenges
-- 💬 **Ask me about**: Python, C++, JavaScript, TensorFlow, React, Data Structures & Algorithms
+<p align="center">
+  <a href="https://github.com/Anikalfa"><img src="https://img.shields.io/badge/GitHub-Anikalfa-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anik-chowdhury-326b12228/"><img src="https://img.shields.io/badge/LinkedIn-Anik_Chowdhury-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:chowdhury.anik2000@gmail.com"><img src="https://img.shields.io/badge/Email-chowdhury.anik2000@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-### 🛠️ **Technologies & Tools**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+### 🚀 About Me
+I am a **Computer Science and Engineering student** passionate about building intelligent software solutions. Currently, I am diving deep into **Artificial Intelligence**, **Machine Learning**, and **Full Stack Development**. I thrive on algorithmic challenges and contributing to the global tech community.
+
+- 🔭 **Currently focused on**: Building high-performance AI models and scalable web apps.
+- 🌱 **Learning**: Deep Learning, Cloud Architecture (AWS), and Advanced Data Structures.
+- 💬 **Ask me about**: Python, React, TensorFlow, or why Networking is the backbone of the web.
+- ⚡ **Fun Fact**: I believe a clean contribution graph is the best kind of art.
 
 ---
 
-### 📊 **GitHub Stats**  
-
-
----
-
-### 📝 **Notable Projects**  
-- **Project 1**  
-  - Description: This project is a Computer Networks Apex University is an enterprise like East West University, owns many computers, with a complex network infrastructure. Apart from wired internet access to all the classrooms, labs, employee PCs, library and other administrative and academic wings, the university also provides wireless internet access for every campus. On top of that the university runs complex networked systems to support several of its business process like admissions, advising, results, eTender, library management, accounts and so on. This complex network infrastructure is subnetted and switching/routing mechanisms are in practice. Cisco Packet Tracer.. Technologies: Cisco Packet Tracer, Networking concepts like VLANs, Subnetting, Routing, DHCP, and more
-  - [Design-a-full-fledged-network-for-an-organization-with-multiple-subnets.](https://github.com/Anikalfa/Design-a-full-fledged-network-for-an-organization-with-multiple-subnets.)
-
-- **Project 2**  
-  - Description: Describe another project I’ve worked on. Technologies: JavaScript, React, Node.js  
-  - [Creating-a-Dynamic-Portfolio](https://github.com/Anikalfa/Creating-a-Dynamic-Portfolio)
+### 🛠️ Technologies & Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,tensorflow,git,docker,aws,mongodb,express,nextjs&theme=dark" />
+  </a>
+</p>
 
 ---
 
-### 📫 **How to reach me**  
-- 📧 **Email**: chowdhury.anik2000@gmail.com  
-- 📱 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/anik-chowdhury-326b12228/)  
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anikalfa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anikalfa's GitHub Stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anikalfa&theme=tokyonight&hide_border=true" alt="Anikalfa's Streak Stats" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anikalfa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180px" />
+</p>
 
 ---
 
-### 🏆 **Achievements**  
-- **Open Source Contributor** to popular repositories
-- **Published Research Paper**: [Explainable Machine-Learning Forecasts of Building-Energy Demand from Weather Signals: A Comparative Study of Classical, Ensemble and Hybrid DL Models](https://www.researchgate.net/publication/395976664_Explainable_Machine-Learning_Forecasts_of_Building-Energy_Demand_from_Weather_Signals_A_Comparative_Study_of_Classical_Ensemble_and_Hybrid_DL_Models)    
-- **Personal Website**: [My Portfolio](https://anikalfa.github.io/)  
----
-
-
-### 👋 Hi there!
-
-I'm a data science enthusiast, learning and building projects on Kaggle.
-
----
-
-### 📊 My Kaggle Stats
-
-*(These badges will appear correctly once your profile is public!)*
-
-[![Kaggle Tier](https://img.shields.io/kaggle/tier/anikalfa?logo=kaggle)](https://www.kaggle.com/anikalfa)
-[![Kaggle Medals](https://img.shields.io/kaggle/medals/anikalfa?logo=kaggle)](https://www.kaggle.com/anikalfa)
+### 🏆 Featured Projects
+<p align="center">
+  <a href="https://github.com/Anikalfa/bookwise">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anikalfa&repo=bookwise&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Anikalfa/Design-a-full-fledged-network-for-an-organization-with-multiple-subnets.">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anikalfa&repo=Design-a-full-fledged-network-for-an-organization-with-multiple-subnets.&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ---
 
-### 🏆 Kaggle Achievements
+### 🧪 Kaggle & Research
+<p align="center">
+  <a href="https://www.kaggle.com/anikalfa">
+    <img src="https://img.shields.io/badge/Kaggle-Expert-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+  </a>
+  <a href="https://www.researchgate.net/publication/395976664_Explainable_Machine-Learning_Forecasts_of_Building-Energy_Demand_from_Weather_Signals_A_Comparative_Study_of_Classical_Ensemble_and_Hybrid_DL_Models">
+    <img src="https://img.shields.io/badge/Research-Paper_Published-brightgreen?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  </a>
+</p>
 
-Here are some of the badges I've earned on my data science journey:
+*   **Notable Achievement**: Published research on "Explainable ML Forecasts for Building-Energy Demand" comparing Ensemble and Hybrid DL Models.
 
-* 🐍 **Python** Badge
-* 📝 **Getting Started** Badge (Forking notebooks & making submissions)
-* 💡 **Curiosity** Badge (Commenting and engaging)
-* 🧮 **Data Scribe** Badge (Contributing to datasets)
-* 📅 **Consistency** Badge (7-day streak)
-### 💬 **Fun Fact**  
-I believe that continuous learning and coding are the keys to becoming a better developer. I’m always open to collaborating and learning new technologies!  
+---
 
-
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:61DAFB&height=100&section=footer" width="100%"/>
+</p>
