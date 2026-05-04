@@ -16,22 +16,21 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class AnikChowdhury:
-    def __init__(self):
-        self.name        = "Md. Anik Chowdhury"
-        self.role        = "CSE Student @ East West University"
-        self.location    = "Dhaka, Bangladesh 🇧🇩"
-        self.learning    = ["Full Stack Dev", "AI/ML", "Cloud Computing", "Deep Learning"]
-        self.building    = ["RECBook — AI Book Recommender", "LenDen — Mobile Banking App"]
-        self.ask_me      = ["Python", "C++", "JavaScript", "TensorFlow", "React", "DSA"]
-        self.open_to     = "Collaborations & Open Source Contributions ✨"
+```bash
+$ whoami
+> Md. Anik Chowdhury — CSE Student @ East West University, Dhaka 🇧🇩
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something great together.")
+$ cat interests.txt
+> AI/ML · Full Stack Dev · Cloud Computing · Deep Learning
 
-me = AnikChowdhury()
-me.say_hi()
+$ ls projects/
+> RECBook/   LenDen/   NetworkSim/   PathfindingAlgo/
+
+$ cat skills.txt
+> Python · C++ · JavaScript · TensorFlow · React · DSA
+
+$ echo $status
+> Open to collaborations & open source contributions ✨
 ```
 
 ---
